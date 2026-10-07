@@ -19,6 +19,8 @@ These cards focus on the move that changes what must be proved or computed. “B
 
 ## Patterns worth comparing
 
+Read [What the bridges have in common](common-patterns.md) for a synthesis of preservation, shared measurements, selective separation, and composition requirements across the ten reviews.
+
 - **Change the representation:** [scheduling](scheduling.md), [plane coloring](plane-coloring.md), and [area law](area-law.md) seek an intermediate object on which another tool becomes available.
 - **Make two views disagree about an obstruction:** [quasi-Riemann](quasi-riemann.md), [Hilbert’s tenth](hilbert-tenth.md), and [tensor/Fourier](tensor-fourier.md) compare analytic signals, growth rates, or prices.
 - **Engineer different responses to the same operation:** [Unique Games](unique-games.md) separates nonlinear stability from linear detectability; [sampling](sampling.md) makes controlled noise enable recursion.

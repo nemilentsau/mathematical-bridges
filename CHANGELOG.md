@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-07 — Cross-bridge synthesis
+
+- Added a comparison of the ten bridges, distinguishing shared proof patterns from mathematical equivalences.
+- Linked the synthesis from the bridge index and recorded preservation, quantitative consequences, and composition requirements as reading questions.
+
 ## 2026-10-07 — Initial collection
 
 - Added 10 reviews and 10 separate bridge cards.

@@ -1,0 +1,98 @@
+{
+  "compiled": "2026-10-07",
+  "upstream_repository": "https://github.com/openai/math",
+  "upstream_revision": "adc7f1241b42e322a6451854ab7e4b4c146bf78a",
+  "note": "PDF bytes checked at compilation. Historical reading revisions are unknown. PDFs are not distributed in this repository.",
+  "papers": [
+    {
+      "id": "sampling",
+      "title": "Subpolynomial query complexity for well-conditioned log-concave sampling",
+      "path": "preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/article.pdf",
+      "pages": 55,
+      "sha256": "9e9a41553023f95e18b673f130c2086def56ba2b7a4cd851337a39eb114bf679",
+      "checked_on": "2026-10-07",
+      "pinned_url": "https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/article.pdf"
+    },
+    {
+      "id": "scheduling",
+      "title": "A Polynomial-Time Algorithm for Three-Machine Unit-Job Scheduling",
+      "path": "preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/paper.pdf",
+      "pages": 22,
+      "sha256": "2080c4ad5953f225c1db7fe803c6d8602ae499510719cfe0cb4f22f99bccff1e",
+      "checked_on": "2026-10-07",
+      "pinned_url": "https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/paper.pdf"
+    },
+    {
+      "id": "matrix-multiplication",
+      "title": "An Upper Bound of 9/4 for the Matrix Multiplication Exponent",
+      "path": "preprints/Matrix-Multiplication-Nine-Fourths-October-2-2026/paper.pdf",
+      "pages": 13,
+      "sha256": "9c430672ddf2a1d0d2335c55c03b0b1fdea72f5a000c586bf130c2e984f19ae6",
+      "checked_on": "2026-10-07",
+      "pinned_url": "https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Matrix-Multiplication-Nine-Fourths-October-2-2026/paper.pdf"
+    },
+    {
+      "id": "logspace",
+      "title": "Exact derandomization of logarithmic space: L = RL = BPL",
+      "path": "preprints/Exact-Derandomization-of-Logarithmic-Space-L-equals-RL-equals-BPL-September-23-2026/paper.pdf",
+      "pages": 108,
+      "sha256": "15030fab23d31a4d91bd944100a547c3e9eff6da8330a4fb94ea999f071fadfc",
+      "checked_on": "2026-10-07",
+      "pinned_url": "https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Exact-Derandomization-of-Logarithmic-Space-L-equals-RL-equals-BPL-September-23-2026/paper.pdf"
+    },
+    {
+      "id": "area-law",
+      "title": "A two-dimensional area law from a global spectral gap",
+      "path": "preprints/A-two-dimensional-area-law-from-a-global-spectral-gap-September-24-2026/paper.pdf",
+      "pages": 90,
+      "sha256": "91e272a2245ad0bd922be670e023ee76d9afa2564c8e309915070a2f42479153",
+      "checked_on": "2026-10-07",
+      "pinned_url": "https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/A-two-dimensional-area-law-from-a-global-spectral-gap-September-24-2026/paper.pdf"
+    },
+    {
+      "id": "quasi-riemann",
+      "title": "The Quasi-Riemann Hypothesis: A Zero-Free Half-Plane Re s > 7/8",
+      "path": "preprints/The-Quasi-Riemann-Hypothesis-September-30-2026/paper.pdf",
+      "pages": 199,
+      "sha256": "8fe93046f8cf5ef1ba5969c89addc02d76311adc4ee907509ff9cd96f7ec99e7",
+      "checked_on": "2026-10-07",
+      "pinned_url": "https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/The-Quasi-Riemann-Hypothesis-September-30-2026/paper.pdf"
+    },
+    {
+      "id": "plane-coloring",
+      "title": "The Euclidean plane is not five-colorable",
+      "path": "preprints/The-Euclidean-plane-is-not-five-colorable-September-23-2026/paper.pdf",
+      "pages": 62,
+      "sha256": "607c2601b5ae655c7c116272840e260f71f637aacf611453186e0a1c65111d36",
+      "checked_on": "2026-10-07",
+      "pinned_url": "https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/The-Euclidean-plane-is-not-five-colorable-September-23-2026/paper.pdf"
+    },
+    {
+      "id": "hilbert-tenth",
+      "title": "Hilbert’s tenth problem over the rational numbers",
+      "path": "preprints/Hilberts-tenth-problem-over-the-rational-numbers-September-24-2026/main.pdf",
+      "pages": 62,
+      "sha256": "f9c3a77d59893f720a382e6dbf34fbb93adcdfd27af3dcdf4e4336157143defb",
+      "checked_on": "2026-10-07",
+      "pinned_url": "https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Hilberts-tenth-problem-over-the-rational-numbers-September-24-2026/main.pdf"
+    },
+    {
+      "id": "unique-games",
+      "title": "The Unique Games Theorem",
+      "path": "preprints/The-Unique-Games-Theorem-September-23-2026/paper.pdf",
+      "pages": 58,
+      "sha256": "04d0290a9cb7ee815060f82cf556cee893d32b5255613160ca8b8d02a5fe1289",
+      "checked_on": "2026-10-07",
+      "pinned_url": "https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/The-Unique-Games-Theorem-September-23-2026/paper.pdf"
+    },
+    {
+      "id": "tensor-fourier",
+      "title": "Finite tensor savings and exact Fourier circuits",
+      "path": "preprints/Finite-tensor-savings-and-exact-Fourier-circuits-September-25-2026/main.pdf",
+      "pages": 49,
+      "sha256": "e2165b9f6796f0189292220c7edc0c6e19789bd8329a127a24d404da1e81e06b",
+      "checked_on": "2026-10-07",
+      "pinned_url": "https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/preprints/Finite-tensor-savings-and-exact-Fourier-circuits-September-25-2026/main.pdf"
+    }
+  ]
+}

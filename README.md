@@ -26,7 +26,7 @@ An early reference to “number 2” could not be identified from the available 
 
 Use the [review template](templates/review.md) and [bridge template](templates/bridge.md), then follow [CONTRIBUTING.md](CONTRIBUTING.md). [catalog.json](catalog.json) contains the machine-readable index. [CHANGELOG.md](CHANGELOG.md) records substantive changes.
 
-This download is an initialized Git repository with an initial commit. It has no remote and has not been published to GitHub. After extracting it, inspect it with:
+The project is hosted at [nemilentsau/mathematical-bridges](https://github.com/nemilentsau/mathematical-bridges). Inspect and validate a local checkout with:
 
 ```sh
 cd mathematical-bridges
